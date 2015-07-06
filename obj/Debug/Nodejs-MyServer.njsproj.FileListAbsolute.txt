@@ -1,0 +1,1 @@
+E:\Jonny\nodejs\learn\myServer\bin\Microsoft.NodejsTools.WebRole.dll
